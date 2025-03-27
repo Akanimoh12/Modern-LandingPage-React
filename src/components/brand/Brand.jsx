@@ -3,6 +3,8 @@ import './brand.css'
 
 export default function Brand() {
   return (
-    <div>Brand</div>
+    <div>
+      Hello Brand
+    </div>
   )
 }
