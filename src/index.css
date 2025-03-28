@@ -14,8 +14,9 @@
 }
 
 .App {
-    max-width: 1350px;
+    max-width: 1600px;
     justify-content: center;
     height: 100vh;
     margin: auto;
+    background-color: gradient__bg;
 }
