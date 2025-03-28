@@ -83,7 +83,7 @@
 
 .gpt3__footer-links_div h4 {
     font-family: var(--font-family);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 16px;
     color: #FFFFFF;
 
@@ -92,7 +92,7 @@
 
 .gpt3__footer-links_div p {
     font-family: var(--font-family);
-    font-size: 12px;
+    font-size: 14px;
     line-height: 14px;
     color: #FFFFFF;
 
@@ -102,7 +102,7 @@
 
 .gpt3__footer-copyright p {
     font-family: var(--font-family);
-    font-size: 12px;
+    font-size: 14px;
     line-height: 14px;
     color: #FFFFFF;
     margin-top: 4rem;
