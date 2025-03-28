@@ -3,6 +3,8 @@ import './possibility.css'
 
 export default function Possibility() {
   return (
-    <div>Possibility</div>
+    <div className=' '>
+
+    </div>
   )
 }

@@ -12,3 +12,10 @@
     --color-subtext: #FF8A71;
 
 }
+
+.App {
+    max-width: 1350px;
+    justify-content: center;
+    height: 100vh;
+    margin: auto;
+}
