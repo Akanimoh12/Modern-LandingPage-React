@@ -5,8 +5,8 @@
 ## 📋 Project Overview  
 
 This is a sleek, modern, and responsive landing page built with:  
-⚛️ **React** (Create React App)  
-🎨 **Vanilla CSS** (no frameworks—pure custom styling)  
+⚛️ **React** (A JavaScript Library)  
+🎨 **Vanilla CSS**  
 
 **Key Features:**  
 ✔️ **Fully responsive** (📱 Mobile | 💻 Tablet | 🖥️ Desktop)  
